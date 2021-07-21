@@ -833,6 +833,17 @@ const data = [
       "https://twitter.com/rs_bhargav",
     ],
   },
+  {
+    name: "Somnath Shaw",
+    role: "Front End Developer",
+    image: "https://avatars.githubusercontent.com/u/67095310?v=4",
+    skills: ['JS', 'CSS', 'HTML', 'Bootstrap', 'Wordpress'],
+    link: [
+      "https://github.com/somnath-the1",
+      "https://www.linkedin.com/in/somnath-shaw-kolkata-india/",
+      "https://twitter.com/SomnathYo",
+    ],
+  }
 ];
 
 
